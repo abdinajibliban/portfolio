@@ -4,7 +4,7 @@ Portfolio by Abdinajib Liban
 
 # My Task
 
-This week I was instructed to use Bootstrap CSS Framework to create a mobile responsive portfolio. I was instructed to create three files: index.html , contact.html, and portfolio.html.
+This week I was instructed to use Bootstrap CSS Framework to create a mobile responsive portfolio. I was instructed to create three files: index.html , contact.html, and portfolio.html. I was also instructed to include a README file. 
 
 # Hints and Requirements
 
