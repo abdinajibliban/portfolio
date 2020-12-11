@@ -37,3 +37,13 @@ img {
     border-radius: 10%;
     margin-top: 2rem;
 }
+
+h1.text-center.homebody{
+    font-family: 'Anton', sans-serif;
+    color: gray;
+}
+
+h3.text-center.homebody{
+    font-family: 'Anton', sans-serif;
+    color: gray;
+}
