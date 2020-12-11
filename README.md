@@ -1,38 +1,40 @@
-# portfolio
+# Unit 08 Homework: Professional Materials ReadMe
 
-Portfolio by Abdinajib Liban
+# portfolio by Abdinajib Liban
 
-# My Task
+## Overview
 
-This week I was instructed to use Bootstrap CSS Framework to create a mobile responsive portfolio. I was instructed to create three files: index.html , contact.html, and portfolio.html. I was also instructed to include a README file. 
+```
+My homework for this week was to use the skills I have gained 
+at The Ohio State University Coding Boot Camp to update my portfolio page 
+and other materials. This is an important step towards being employer-competitive.
+```
 
-# Hints and Requirements
+## Requirements
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+* Submit an updated resume
 
-* Functional, deployed application
+* Submit an updated LinkedIn profile
 
-* GitHub repository with README describing the project
+# My Result
 
-* Navbar must be consistent on each page.
+```
+I built a mobile responsive portfolio using Bootstrap CSS Framework. The index.html file contains my home page.
+The home page features my full name, a professional image of me, and a brief description. It also features my
+email and phone number. There are also three icons that upon being pressed lead to my LinkedIn, GitHub, and 
+a downloadable Resume.
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+The navbar can be used to navigate to my contact page which contains a contact form. The Projects page features three of
+my best work. I highlight my project one along with the schedular and code quiz homeworks. Each card contains a description
+and a preview image. When one clicks on the preview image they are sent to the live git site. 
+```
 
-* All links must work.
+## Helpful Links
 
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
-
-
-My Result
-
-I was able to create a mobile responsive portfolio using Bootsrap CSS Framework. The index.html file contains my home page which includes a image and brief information about me and my email. The portfolio.html page contains photos of me and an explanation of projects I've worked on the past few weeks. And finally, the contact.html folder contained the likeness of a form which users can use to get in contact with me. All three of these pages optime both "xs" and "sm" screens. 
+* [Portfolio Site](https://abdinajibliban.github.io/portfolio/)
+  
+- - -
