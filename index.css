@@ -4,3 +4,15 @@ body{
     background-color: azure;
 }
 
+#icons{
+    text-align: center;
+}
+
+.icon{
+    font-size: 8rem;
+    padding-right: 3rem;
+}
+
+.homebody{
+    padding-top: 1rem;
+}
