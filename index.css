@@ -18,3 +18,22 @@ body{
 .homebody{
     padding-top: 1rem;
 }
+#mynavbar{
+    border-radius: 30rem;
+}
+
+.nav-link:hover {
+    background-color: rgba(69, 82, 66, 0.473);
+    color: whitesmoke;
+    border-radius: 10rem;
+}
+
+img {
+    border-radius: 25%;
+    width: 200px;
+}
+
+.card {
+    border-radius: 10%;
+    margin-top: 2rem;
+}
